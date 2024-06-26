@@ -3,15 +3,15 @@
 ## Login Credentials
 #### Admin Credentials
 Email: bitrarahuldatta@gmail.com
-Password: Password
+Password: password
 
 #### Organizer Credentials
 Email: Soumyakonda048@gmail.com
-Password: Password
+Password: password
 
 #### Student Credentials
 Email: mahendrarayavarapu557@gmail.com
-Password: Password
+Password: password
 
 ### Entity Framework code-first approch commands
 1) Run the Enable-Migrations command in Package Manager Console
